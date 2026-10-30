@@ -1,0 +1,15 @@
+# Build outputs
+*.o
+/server
+/client
+/basic_demo/basic_server
+/basic_demo/basic_client
+/tests/test_client
+/tests/test_transport
+# Editor and backup files
+*.bak
+*.encoding.bak
+*~
+.vscode/
+.idea/
+.DS_Store
